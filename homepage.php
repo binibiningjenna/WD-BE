@@ -158,7 +158,7 @@
 
     <!-- Header Section -->
     <div class="header">
-        <img src="assets/images/logo.png" alt="Logo" class="logo">
+        <img src="images/logo.png" alt="Logo" class="logo">
     </div>
 
     <!-- Intro Section -->
@@ -168,7 +168,7 @@
             <h2>I'm <span style="color: #fbff0e;">Jenna Miles</span></h2>
             <h3 style="padding-top: 0; font-weight: lighter;">Future Web Developer</h3>
         </div>
-        <img src="assets/images/myprofile.png" alt="Jenna Miles" class="intro-image">
+        <img src="images/myprofile.png" alt="Jenna Miles" class="intro-image">
     </div>
 
     <div class="separator"></div>
@@ -179,28 +179,28 @@
         <h5>This is my projects in Web Development - Back End</h5>
         <div class="project-container">
             <div class="project-card">
-                <img src="assets/images/activity08.png" alt="Project 1" class="project-preview">
+                <img src="images/activity08.png" alt="Project 1" class="project-preview">
                 
                 <h3>Project 1</h3>
                 <p>A dynamic site showcasing the Islands of Personality, highlighting unique traits and cherished memories.</p>
                 <a href="A08/index.php" target="_blank" class="btn btn-custom">View Project</a>
             </div>
             <div class="project-card">
-                <img src="assets/images/Coming Soon.png" alt="Project 2" class="project-preview">
+                <img src="images/Coming Soon.png" alt="Project 2" class="project-preview">
                 
                 <h3>Project 2</h3>
                 <p>Stay tuned! A fresh project is launching soon, and you won't want to miss it!</p>
                 <a href="https://tse3.mm.bing.net/th?id=OIP.cpKI3pJxBNBptBUbIPIeDQHaEK&pid=Api&P=0&h=180" target="_blank" class="btn btn-custom">View Project</a>
             </div>
             <div class="project-card">
-                <img src="assets/images/Coming Soon.png" alt="Project 3" class="project-preview">
+                <img src="images/Coming Soon.png" alt="Project 3" class="project-preview">
              
                 <h3>Project 3</h3>
                 <p>Stay tuned! A fresh project is launching soon, and you won't want to miss it!</p>
                 <a href="https://tse3.mm.bing.net/th?id=OIP.cpKI3pJxBNBptBUbIPIeDQHaEK&pid=Api&P=0&h=180" target="_blank" class="btn btn-custom">View Project</a>
             </div>
             <div class="project-card">
-                <img src="assets/images/Coming Soon.png" alt="Project 4" class="project-preview">
+                <img src="images/Coming Soon.png" alt="Project 4" class="project-preview">
             
                 <h3>Project 4</h3>
                 <p>Stay tuned! A fresh project is launching soon, and you won't want to miss it!</p>
@@ -219,17 +219,17 @@
             <div class="social-links">
                 <!-- Email Button -->
                 <a href="mailto:atienzajennamiles@gmail.com" target="_blank">
-                    <img src="assets/images/email.png" alt="Email" style="width: 50px; height: 50px;">
+                    <img src="images/email.png" alt="Email" style="width: 50px; height: 50px;">
                 </a>
 
                 <!-- GitHub Button -->
                 <a href="https://github.com/binibiningjenna" target="_blank">
-                    <img src="assets/images/github.png" alt="GitHub" style="width: 50px; height: 50px;">
+                    <img src="images/github.png" alt="GitHub" style="width: 50px; height: 50px;">
                 </a>
 
                 <!-- LinkedIn Button -->
                 <a href="https://www.linkedin.com/in/jenna-miles-reyes-4593b1246/" target="_blank">
-                    <img src="assets/images/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
+                    <img src="images/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
                 </a>
             </div>
 
